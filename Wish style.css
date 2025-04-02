@@ -19,7 +19,7 @@ body {
   left: 0;
   height: 100%;
   width: 100%;
-  background: lite purple;
+  background: purple;
   display: flex;
   flex-direction: column;
   align-items: center;
