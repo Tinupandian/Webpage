@@ -24,7 +24,7 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #fff;
+  color: black;
 }
 
 .front .info {
@@ -83,7 +83,7 @@ body {
 }
 
 .new-year {
-  background:url(img10.JPG);
+  background:url(Mutta.jpg.jpeg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
